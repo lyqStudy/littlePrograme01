@@ -1,0 +1,3 @@
+<view class='title'>Hello {{motto}}!</view>
+<image src='../../images/001.jpg'></image>
+<button bindtap='onchage'>改变</button>
